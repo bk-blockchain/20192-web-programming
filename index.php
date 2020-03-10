@@ -10,16 +10,16 @@
         <br>
         <ul>
             <li>
-              <a href="exercise_1.php">Exercise 1</a>
+                <a href="/week1/exercise_1.php">Exercise 1</a>
             </li>
             <li>
-              <a href="exercise_2.html">Exercise 2</a>
+              <a href="/week1/exercise_2.html">Exercise 2</a>
             </li>
             <li>
-              <a href="uris.html">Exercise 3</a>
+              <a href="/week1/uris.html">Exercise 3</a>
             </li>
             <li>
-              <a href="exercise_5.php">Exercise 5</a>
+              <a href="/week1/exercise_5.php">Exercise 5</a>
             </li>
         </ul>
 
