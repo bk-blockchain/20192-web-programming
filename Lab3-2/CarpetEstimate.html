@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <title>Carpet Estimate</title>
+    </head>
+    <body>
+        <font size="5" color="blue"> Carpet Cost Estimator!</font>
+        <form action="CalculateCost.php" method="POST">
+            <table>
+                <tr>
+                    <td>Carpet grade:</td>
+                    <td><input type="radio" name="grade" value=1> Best quality</td>
+                    <td><input type="radio" name="grade" value=2> Extra Value</td>
+                </tr>
+                <tr>
+                    <td>Room width (in m2):</td>
+                    <td colspan="2"><input type="text" name="width" size=4 maxlength=4></td>
+                </tr>
+                <tr>
+                    <td>Room length (in m2):</td>
+                    <td colspan="2"><input type="text" name="length" size=4 maxlength=4></td>
+                </tr>
+                <tr>
+                    <td align="right"><input type="submit" value="submit"></td>
+                    <td align="left"><input type="reset" value="reset"></td>
+                </tr>
+            </table>
+        </form>
+    </body>
+</html>
