@@ -5,7 +5,7 @@
         <title>A simple form</title>
     </head>
     <body>
-        <form action="http://fit.hut.edu.vn/~trangntt/courses/wp" method="POST">
+        <form action="http://webwizard.aw.com/~phppgm/First.php" method="POST">
             Click submit to start our initial PHP program.
             <br/>
             <input type="text" name="name" value="">
