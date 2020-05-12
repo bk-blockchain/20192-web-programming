@@ -12,8 +12,8 @@ class Controller {
 		$this->_action = $action;
 		$this->_model = $model;
 
-		$this->$model =& new $model;
-		$this->_template =& new Template($controller,$action);
+		$this->$model =new $model;
+		$this->_template =new Template($controller,$action);
 
 	}
 
